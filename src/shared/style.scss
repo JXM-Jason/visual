@@ -17,7 +17,7 @@ code {
 *::after {box-sizing: border-box;}
 body {
   font-family: $font-hei;
-  font-size: 16px;
+  font-size: px(16);
   background: #00020b;
 }
 
@@ -34,5 +34,5 @@ body {
   flex: 1;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-size: 16px;
+  font-size: px(16);
 }
